@@ -15,3 +15,5 @@
 ```
 - Tools tự động mở tab và chạy tất cả các link được đặt trong file list_url_video.txt
 - Có thể chọn số tab muốn mở và đặt giới hạn thời gian xem cho mỗi video
+```
+Idea by /Daudau432
