@@ -11,6 +11,7 @@
 - Chọn số tab để mở video (tùy vào cấu hình của máy chọn cho phù hợp tránh lag máy)
 - Chọn thời gian xem cho mỗi vdeo (không nên để ít quá khuyến nghị để 30s)
 - *** Key : Mango | DeewMango ***
-``` Giải thích về nguyên lý:
+- Giải thích cách hoạt động:
+```
 - Tools tự động mở tab và chạy tất cả các link được đặt trong file list_url_video.txt
 - Có thể chọn số tab muốn mở và đặt giới hạn thời gian xem cho mỗi video
